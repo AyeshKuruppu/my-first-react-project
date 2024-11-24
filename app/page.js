@@ -17,7 +17,7 @@ export default function Home() {
             Git version controlling basics
             
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Java Scripts fundementals</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
